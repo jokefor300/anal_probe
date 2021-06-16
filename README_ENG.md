@@ -6,8 +6,8 @@
 * [Add Atmosphere to your white list]()
   * [Prerequisites]()
   * [Add IP addresses to the white list through web interface (Defender Portal)]()
-	* [## Add IP addresses to the white list through PowerShell]()
-	* [Check your work]()
+  * [Add IP addresses to the white list through PowerShell]()
+  * [Check your work]()
 
 # Add Atmosphere to your white list
 
